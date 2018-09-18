@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a friend finder",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AJC-147/FriendFinder.git"
+  },
+  "author": "AJC-147",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJC-147/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/AJC-147/FriendFinder#readme"
+}
